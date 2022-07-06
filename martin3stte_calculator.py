@@ -15,7 +15,7 @@ def sub(c, d):
 c = int(input('Substraction. Enter 1st number: '))
 d = int(input('Enter 2nd number: '))
 
-print(f'sub of {c} and {d} is {sub(c, d)}')
+print(f'Substraction of {c} and {d} is {sub(c, d)}')
 
 def multiplication(e, f):
     return (e * f)

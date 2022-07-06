@@ -1,5 +1,5 @@
 
-# Calculator by Martín Estévez López. All Rights Reserved.
+# Calculator by Martin3stte. All Rights Reserved.
 
 def sum(a, b):
     return (a + b)

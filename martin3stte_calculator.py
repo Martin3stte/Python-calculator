@@ -34,4 +34,4 @@ h = int(input('Enter 2nd number: '))
 print(f'Division of {g} and {h} is {div(g, h)}')
 
 
-print("Thanks for using Martín Estévez's calculator.")
+print("Thanks for using Martin3stte's calculator.")
